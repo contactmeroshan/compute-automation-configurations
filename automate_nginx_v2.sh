@@ -23,4 +23,4 @@
 # SOFTWARE.
 
 apt-get install -y nginx
-echo "Hello World from updated host" $HOSTNAME "!" | sudo tee /var/www/html/index.html
+echo "Hello from VIDEO SERVER VMSS demo with updated host" $HOSTNAME "!" | sudo tee /var/www/html/index.html
